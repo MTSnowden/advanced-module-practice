@@ -1,8 +1,9 @@
 import add from "./modules/add";
 import subtract from "./modules/subtract";
 import multiply from "./modules/multiply";
-import {addTen, addFive} from "./modules/addNumbers";
-import {subtractOne} from "./modules/subtractNumbers";
+import divide from "./modules/divide";
+import {addTen, addFive, addOne} from "./modules/addNumbers";
+import {subtractTen, subtractFive, subtractOne} from "./modules/subtractNumbers";
 
 const number1 = 393;
 const number2 = 238;
